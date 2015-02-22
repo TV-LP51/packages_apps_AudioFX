@@ -36,12 +36,12 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     <color name="disabled_gallery">#888888</color>
     <color name="disabled_knob">#575757</color>
 
-    <color name="primary">#000000</color>
-    <color name="primary_dark">#212121</color>
-    <color name="accent">#424242</color>
+    <color name="primary">#607D8B</color>
+    <color name="primary_dark">#455A64</color>
+    <color name="accent">#78909C</color>
 
     <color name="white">#fafafa</color>
-    <color name="black">#000000</color>
+    <color name="black">#212121</color>
     <color name="grid_lines">#22ffffff</color>
     <color name="cb">#88ffffff</color>
     <color name="freq_hl">#2000ddff</color>
@@ -50,7 +50,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     <color name="eq_green">#8bc34a</color>
     <color name="eq_yellow">#ff9800</color>
     <color name="eq_holo_bright">#8000ddff</color>
-    <color name="eq_holo_blue">#80009688</color>
+    <color name="eq_holo_blue">#8033b5e5</color>
     <color name="eq_holo_dark">#800099cc</color>
     <color name="cb_shader">#ffffffff</color>
     <color name="cb_shader_alpha">#22ffffff</color>
